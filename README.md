@@ -1,3 +1,2 @@
-# Code
-
-Please place your code for the project in this directory.
+# Collection of all my programs & projects done in SQL
+- BART
